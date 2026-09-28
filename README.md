@@ -22,6 +22,29 @@ Stylish is a comprehensive e-commerce platform designed to provide users with:
 | Payments | Stripe |
 | Cloud | Firebase |
 
+
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Flutter SDK
+- Node.js & npm
+- Firebase Account
+- Stripe Account
+
+### Installation
+
+```bash
+# Frontend
+git clone https://github.com/marwa906/stylish.git
+cd stylish/frontend
+flutter pub get
+flutter run
+
+# Backend
+cd ../backend
+npm install
+npm start
 ## ✨ Features
 
 - User authentication & profile management
